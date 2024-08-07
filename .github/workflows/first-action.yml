@@ -9,7 +9,7 @@ jobs:
       - name: Print goodbye
         run: echo "Done-bye"
       - name: Multiple messages
-         run: |
-            echo "First output"
-            echo "Second output"
+        run: |
+           echo "First output"
+           echo "Second output"
     
